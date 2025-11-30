@@ -1,0 +1,8 @@
+python-dotenv
+streamlit
+wkhtmltopdf
+streamlit
+google-genai
+pdfkit
+python-docx
+python-dotenv
